@@ -9,3 +9,5 @@ This is the test repository to study 'Version Control with GIT' module
 6 - minsk branch
 7 - 'develop' branch
 8 - commit from master
+8 - commit from minst branch
+
