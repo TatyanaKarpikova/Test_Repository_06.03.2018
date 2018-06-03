@@ -7,3 +7,5 @@ This is the test repository to study 'Version Control with GIT' module
 4 - chenges to try GitGUI
 5-1 - push!
 6 - minsk branch
+
+8 - commit from minst branch
