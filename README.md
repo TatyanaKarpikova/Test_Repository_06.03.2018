@@ -7,3 +7,4 @@ This is the test repository to study 'Version Control with GIT' module
 4 - chenges to try GitGUI
 5-1 - push!
 6 - minsk branch
+7 - 'develop' branch
