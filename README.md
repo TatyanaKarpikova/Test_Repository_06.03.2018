@@ -13,4 +13,9 @@ This is the test repository to study 'Version Control with GIT' module
 
 
 9-1 - changes made on local repo
+<<<<<<< HEAD
 9-3 - changes made on local repo
+
+
+9-2 - changes made on web
+>>>>>>> 6b4f85064cf3b2332fc521797e243f2b0f3cc396
