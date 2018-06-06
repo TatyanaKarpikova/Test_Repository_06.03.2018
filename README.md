@@ -11,3 +11,6 @@ This is the test repository to study 'Version Control with GIT' module
 8 - commit from master
 8 - commit from minst branch
 
+
+9-1 - changes made on local repo
+9-3 - changes made on local repo
